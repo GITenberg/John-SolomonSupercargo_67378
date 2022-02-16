@@ -1,11 +1,16 @@
 _repo: John-SolomonSupercargo_67378
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67378-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hawkwood, Allan
     gutenberg_agent_id: '54237'
     url: http://www.gutenberg.org/2009/agents/54237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67378#John-SolomonSupercargo
 gutenberg_issued: '2022-02-11'
 identifiers:
   gutenberg: '67378'
